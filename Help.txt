@@ -1,0 +1,62 @@
+Game Design Document
+Fill up the following document 
+
+________________________________________
+
+
+1.	Write the title of your project.
+
+zombie shooter game
+
+
+2.	What is the goal of the game? 
+
+we just have to kill all the zombies and win the game
+
+
+3.	Write a brief story of your game.
+there was a virus out there in the world and only this one was surviving out there his goal is to kill all the zombies and survive lets see do he survives or nooooo
+
+
+ 
+4.	Which are the playing characters of this game? 
+●	Playing characters are the ones who respond to the user based on the input from the user.
+●	Cars, monkeys, dinos, wizards, etc., are the playing characters in the game.  
+
+Number	Character Name	What can this character do?
+1	player - he can move up and down, kill the zombies	
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+ 
+6.	Which are the Non-Playing Characters of this game?
+●	Non-Playing characters are the ones that don't have an action or behavior when the user interacts with the game.
+●	Hurdles, stones, bananas, coins, etc., are non-playing characters in the game.
+
+Number	Character Name	What can this character do?
+1	zombies - zombies can kill the player and eat him	
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+
+
+Draw your imagination of this game. What does this game look like?
+●	Draw the game either on your computer or on paper.
+●	Add images of the game scenes to show each of the playing and non-playing characters at least once. 
+
+
+the player is killing the zombies near the grave yard and there are bats roaming all around
+and he is killing zombies in night.
+
+
+How do you plan to make your game engaging? 
+
+after some amount of killing the zombies the amount of zombies are increased and after some checkpoint a monster zombie will arrive.
